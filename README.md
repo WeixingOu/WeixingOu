@@ -67,9 +67,6 @@ Hello! I'm Weixing Ou, a passionate Full Stack Web Developer from Argentina
 
 ### ⚙️ GitHub Analytics
 <a href="https://github.com/WeixingOu/WeixingOu"><img src="https://streak-stats.demolab.com?user=WeixingOu" alt="GitHub Streak" /></a>
-<div align="right">
-<br/>
+<div align="right" style="margin-top: 20px;">
     <img alt="GIF" src="https://batelec2.ph/admin/assets/gif/static/cat-programmer.gif" width="300px" style="margin-top: 20px;" />
 </div>
-
-
