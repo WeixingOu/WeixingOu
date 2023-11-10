@@ -53,10 +53,19 @@ Hello! I'm Weixing Ou, a passionate Full Stack Web Developer from Argentina
     <img src="https://skillicons.dev/icons?i=gulp,nodejs,python,typescript,java,spring,gradle,mysql,postgres" /><br>
 </div>
 
+<br/>
+
+<hr/>
+
 ### 💻 My Contributions:
-<br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WeixingOu/WeixingOu/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WeixingOu/WeixingOu/output/github-contribution-grid-snake.svg" />
 <br/>
-<br/>
-<br/>
+
+### 📈 My Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=WeixingOu&show_icons=true&theme=calm&count_private=true" alt="MelvinAguilar" width="420" style="margin-right: 10px;" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeixingOu&layout=compact&theme=calm" alt="MelvinAguilar" height="165">
+
+### ⚙️ GitHub Analytics
+<a href="https://github.com/WeixingOu/WeixingOu"><img src="https://streak-stats.demolab.com?user=WeixingOu" alt="GitHub Streak" /></a>
+<img align="right" alt="GIF" src="https://batelec2.ph/admin/assets/gif/static/cat-programmer.gif" width="360px" />
 
