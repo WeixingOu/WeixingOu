@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WeixingOu.WeixingOu" />
 
----
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=524945&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weixing+Ou!;" />
 </p>
@@ -67,6 +65,5 @@ Hello! I'm Weixing Ou, a passionate Full Stack Web Developer from Argentina
 
 ### ⚙️ GitHub Analytics
 <a href="https://github.com/WeixingOu/WeixingOu"><img src="https://streak-stats.demolab.com?user=WeixingOu" alt="GitHub Streak" /></a>
-<div align="right" style="margin-top: 20px;">
-    <img alt="GIF" src="https://batelec2.ph/admin/assets/gif/static/cat-programmer.gif" width="300px" style="margin-top: 20px;" />
-</div>
+<img align="right" alt="GIF" src="https://batelec2.ph/admin/assets/gif/static/cat-programmer.gif" width="300px" style="margin-top: 20px;" />
+
