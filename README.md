@@ -55,7 +55,7 @@ Hello! I'm Weixing Ou, a passionate Full Stack Web Developer from Argentina
 
 ### 💻 My Contributions:
 <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WeixingO/WeixingO/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WeixingOu/WeixingOu/output/github-contribution-grid-snake.svg" />
 <br/>
 <br/>
 <br/>
