@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=524945&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weixing+Ou!;" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://i.imgur.com/mg5fpZP.jpg" />
+</p>
+
 ---
 
 <img align="right" alt="GIF" src="https://www.thoughtwin.com/assets/img/mernstack-img.gif" width="360px" />
