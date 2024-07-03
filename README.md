@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/mg5fpZPl.jpg" height="100px" width="auto"/>
+  <img src="https://i.imgur.com/mg5fpZPl.jpg" height="100px" width="100%"/>
 </p>
 
 ---
