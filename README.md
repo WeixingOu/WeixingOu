@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=524945&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weixing+Ou!;" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://i.imgur.com/mg5fpZPl.jpg" height="150px" />
-</p>
+<div align="center" style="width: 100%; height: 100px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <img src="https://i.imgur.com/mg5fpZPl.jpg" style="height: 100%; object-fit: cover;">
+</div>
 
 ---
 
